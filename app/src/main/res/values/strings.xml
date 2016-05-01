@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Taquin</string>
+    <string name="intro">Capture a picture to crop!</string>
+    <string name="picture">Picture</string>
+    <string name="capture">Launch Camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets_array">
+        <item>Facile</item>
+        <item>Normal</item>
+        <item>Dificile</item>
+        <item>HardCore</item>
+    </string-array>
+</resources>

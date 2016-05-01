@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".JeuActivity">
+    <item android:id="@+id/action_settings" android:title="Camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:orderInCategory="101" app:showAsAction="always" />
+    <item android:id="@+id/action_exit" android:title="Exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:orderInCategory="105" app:showAsAction="always" />
+    <item android:id="@+id/action_refresh" android:title="Refresh"
+        android:icon="@android:drawable/stat_notify_sync_noanim"
+        android:orderInCategory="103" app:showAsAction="always" />
+    <item android:id="@+id/action_restart" android:title="Restart"
+        android:icon="@drawable/restore_white2"
+        android:orderInCategory="104" app:showAsAction="always" />
+</menu>
